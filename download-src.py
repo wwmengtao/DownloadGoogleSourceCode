@@ -52,4 +52,3 @@ branchNameTuple=[
 "frameworks/base"
 ]
 DownloadAll(rootdir, defaultXml, prefix, branchNameTuple, suffix)
-cf=input()
